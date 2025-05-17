@@ -9,6 +9,7 @@ export default function HomePage() {
       <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-2">About Me</h2>
         <p>
+          this is a website for sub-domain of is-a.dev
           I’m a passionate computer engineering student with a keen interest in web development, algorithms, and innovative technology.
         </p>
       </section>
